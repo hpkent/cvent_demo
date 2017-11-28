@@ -1,0 +1,10 @@
+# we don't want the Gemfile.lock particularly
+Gemfile.lock
+.ruby-version
+.ruby-gemset
+
+config/database.yml
+config/databse_prod.yml
+config/cvent_credentials_fiserv.yml
+config/cvent_credentials_bcbs.yml
+
